@@ -14,9 +14,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "npx react-scripts build",
-    "start": "npx react-scripts start",
-    "test": "npx react-scripts test"
+    "build": "node node_modules/react-scripts/bin/react-scripts.js build",
+    "start": "node node_modules/react-scripts/bin/react-scripts.js start",
+    "test": "node node_modules/react-scripts/bin/react-scripts.js test"
   },
   "eslintConfig": {
     "extends": [

@@ -18,23 +18,8 @@ MediTrack is a full-stack React application designed to help users manage their 
 
 👨‍👩‍👧 Family Notification Generator – Custom alerts for caregivers/family.
 
-📂 Project Structure
-css
-Copy
-Edit
-src/
-├── components/
-│   ├── ReminderCard.jsx
-│   ├── StreakCounter.jsx
-│   └── ...
-├── context/
-│   └── MedicationContext.js
-├── utils/
-│   ├── drugInteractions.js
-│   └── notifications.js
-├── App.js
-└── index.js
 🧑‍💻 Technologies Used
+
 React.js (with Hooks & Context API)
 
 Lucide React (for icons)
@@ -49,7 +34,7 @@ Browser Notifications API
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/MediTrack.git
+git clone https://github.com/tamannaaaaa/MediTrack.git
 cd MediTrack
 npm install
 npm start
@@ -92,18 +77,11 @@ Edit
 
 📬 SMS or email alerts
 
-📸 Screenshots
-(You can add screenshots here)
-
-📜 License
-This project is licensed under the MIT License.
-
 🤝 Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 🙋‍♀️ Author
 Tamanna Singh
-🛠 Built with React and ❤️
 
 
 
